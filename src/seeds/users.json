@@ -1,0 +1,22 @@
+[
+  {
+    "id": "USR-001",
+    "name": "Ibu Diana Maharani",
+    "username": "pemilik",
+    "password": "123",
+    "role": "pemilik",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=Diana",
+    "email": "diana@donatbudiana.com",
+    "phone": "081234567890"
+  },
+  {
+    "id": "USR-002",
+    "name": "Diana Herawati",
+    "username": "kasir",
+    "password": "123",
+    "role": "kasir",
+    "avatar": "https://api.dicebear.com/7.x/avataaars/svg?seed=DianaHerawati",
+    "email": "kasir@donatbudiana.com",
+    "phone": "082345678901"
+  }
+]

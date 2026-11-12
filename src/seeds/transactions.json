@@ -1,0 +1,162 @@
+[
+  {
+    "id": "TRX-20261110-001",
+    "invoiceNo": "INV/DBD/20261110/001",
+    "customerName": "Rizky Ramadhan",
+    "customerPhone": "081987654321",
+    "cashierId": "USR-002",
+    "cashierName": "Diana Herawati",
+    "items": [
+      {
+        "productId": "PRD-001",
+        "productName": "Donat Kentang Gula Halus",
+        "price": 6000,
+        "costPrice": 3000,
+        "quantity": 3,
+        "subtotal": 18000
+      },
+      {
+        "productId": "PRD-002",
+        "productName": "Donat Cokelat Mesis Special",
+        "price": 7500,
+        "costPrice": 3500,
+        "quantity": 2,
+        "subtotal": 15000
+      },
+      {
+        "productId": "PRD-009",
+        "productName": "Es Kopi Susu Gula Aren Diana",
+        "price": 13000,
+        "costPrice": 5000,
+        "quantity": 1,
+        "subtotal": 13000
+      }
+    ],
+    "totalItems": 6,
+    "subtotal": 46000,
+    "discount": 0,
+    "grandTotal": 46000,
+    "totalCost": 21000,
+    "netProfit": 25000,
+    "paymentMethod": "qris",
+    "cashPaid": 46000,
+    "cashChange": 0,
+    "status": "completed",
+    "notes": "Makan di tempat",
+    "createdAt": "2026-11-10T09:15:00Z"
+  },
+  {
+    "id": "TRX-20261110-002",
+    "invoiceNo": "INV/DBD/20261110/002",
+    "customerName": "Maya Indah",
+    "customerPhone": "085612345678",
+    "cashierId": "USR-002",
+    "cashierName": "Diana Herawati",
+    "items": [
+      {
+        "productId": "PRD-007",
+        "productName": "Bomboloni Nutella Lumer",
+        "price": 9500,
+        "costPrice": 5000,
+        "quantity": 4,
+        "subtotal": 38000
+      },
+      {
+        "productId": "PRD-006",
+        "productName": "Donat Lotus Biscoff Caramel",
+        "price": 12000,
+        "costPrice": 6000,
+        "quantity": 2,
+        "subtotal": 24000
+      }
+    ],
+    "totalItems": 6,
+    "subtotal": 62000,
+    "discount": 2000,
+    "grandTotal": 60000,
+    "totalCost": 32000,
+    "netProfit": 28000,
+    "paymentMethod": "cash",
+    "cashPaid": 100000,
+    "cashChange": 40000,
+    "status": "completed",
+    "notes": "Bungkus box cantik",
+    "createdAt": "2026-11-10T14:30:00Z"
+  },
+  {
+    "id": "TRX-20261111-001",
+    "invoiceNo": "INV/DBD/20261111/001",
+    "customerName": "Budi Santoso",
+    "customerPhone": "083456789012",
+    "cashierId": "USR-002",
+    "cashierName": "Diana Herawati",
+    "items": [
+      {
+        "productId": "PRD-003",
+        "productName": "Donat Keju Salju Melimpah",
+        "price": 8000,
+        "costPrice": 4000,
+        "quantity": 3,
+        "subtotal": 24000
+      },
+      {
+        "productId": "PRD-005",
+        "productName": "Donat Red Velvet Cream Cheese",
+        "price": 11000,
+        "costPrice": 5500,
+        "quantity": 2,
+        "subtotal": 22000
+      },
+      {
+        "productId": "PRD-010",
+        "productName": "Es Cokelat Signature Diana",
+        "price": 12000,
+        "costPrice": 4500,
+        "quantity": 2,
+        "subtotal": 24000
+      }
+    ],
+    "totalItems": 7,
+    "subtotal": 70000,
+    "discount": 5000,
+    "grandTotal": 65000,
+    "totalCost": 32000,
+    "netProfit": 33000,
+    "paymentMethod": "transfer",
+    "cashPaid": 65000,
+    "cashChange": 0,
+    "status": "completed",
+    "notes": "Pesanan pelanggan langganan",
+    "createdAt": "2026-11-11T11:20:00Z"
+  },
+  {
+    "id": "TRX-20261111-002",
+    "invoiceNo": "INV/DBD/20261111/002",
+    "customerName": "Dewi Sartika",
+    "customerPhone": "087799881122",
+    "cashierId": "USR-002",
+    "cashierName": "Diana Herawati",
+    "items": [
+      {
+        "productId": "PRD-001",
+        "productName": "Donat Kentang Gula Halus",
+        "price": 6000,
+        "costPrice": 3000,
+        "quantity": 6,
+        "subtotal": 36000
+      }
+    ],
+    "totalItems": 6,
+    "subtotal": 36000,
+    "discount": 0,
+    "grandTotal": 36000,
+    "totalCost": 18000,
+    "netProfit": 18000,
+    "paymentMethod": "cash",
+    "cashPaid": 50000,
+    "cashChange": 14000,
+    "status": "processing",
+    "notes": "Sedang digoreng fresh",
+    "createdAt": "2026-11-11T16:45:00Z"
+  }
+]

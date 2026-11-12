@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" fill="none">
+  <defs>
+    <radialGradient id="dough" cx="0" cy="0" r="1" gradientTransform="matrix(0 84 -84 0 48 32)" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8D89B"/>
+      <stop offset=".62" stop-color="#D99A52"/>
+      <stop offset="1" stop-color="#A85F32"/>
+    </radialGradient>
+    <linearGradient id="icing" x1="30" x2="95" y1="24" y2="100" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F8B6C7"/>
+      <stop offset=".5" stop-color="#E77A9A"/>
+      <stop offset="1" stop-color="#A94061"/>
+    </linearGradient>
+    <filter id="shadow" width="1.3" height="1.35" x="-.15" y="-.1" color-interpolation-filters="sRGB">
+      <feGaussianBlur stdDeviation="4"/>
+    </filter>
+  </defs>
+  <ellipse cx="64" cy="70" fill="#38251B" opacity=".22" rx="43" ry="38" filter="url(#shadow)"/>
+  <circle cx="64" cy="61" r="47" fill="url(#dough)"/>
+  <circle cx="64" cy="61" r="17" fill="#75432B"/>
+  <path
+    d="M64 15c17 0 32 9 40 23 5 8 8 17 7 27 0 7-5 12-10 9-4-3-7-8-11-6-4 2-2 10-7 13-5 3-10-2-12-7-2-5-7-3-9 3-2 7-9 9-13 3-3-5-7-7-10-1-3 6-10 6-13 0-3-5-7-8-11-5-5 4-10 0-11-6-2-11 0-22 6-32 9-13 24-21 44-21Z"
+    fill="url(#icing)"
+    fill-rule="evenodd"
+    clip-rule="evenodd"
+  />
+  <ellipse cx="64" cy="61" fill="#5A3325" rx="13" ry="12"/>
+  <ellipse cx="64" cy="59" stroke="#F2C38F" stroke-opacity=".8" stroke-width="2.5" rx="15.5" ry="14.5"/>
+  <path d="m42 31 3 6m14-13 2 6m27 6-4 5m18 12-6 2M29 56l6 1m53 31-4-5m-35 9 1-6m-25-15 6-2" stroke="#FFF5D9" stroke-linecap="round" stroke-width="3"/>
+  <path d="m52 36 4-3m18-4 3 4m12 18 5-2M37 69l4 4m26 17-2 5m18-13 4 2m-42-34-4-3" stroke="#6D3547" stroke-linecap="round" stroke-width="3"/>
+</svg>

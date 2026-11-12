@@ -1,0 +1,72 @@
+[
+  {
+    "id": "PRD-001",
+    "name": "Donat Coklat Meses",
+    "category": "Classic",
+    "costPrice": 3500,
+    "price": 7500,
+    "stock": 38,
+    "minStock": 15,
+    "unit": "pcs",
+    "description": "Donat lembut dengan lapisan cokelat manis dan taburan meses.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJEUHacFadI0doARTwJkH3IQwSIpOlMPysuBPGCIMZdg&s=10",
+    "isActive": true,
+    "createdAt": "2026-11-01T08:00:00Z"
+  },
+  {
+    "id": "PRD-002",
+    "name": "Donat Kacang Nougat",
+    "category": "Classic",
+    "costPrice": 4000,
+    "price": 8500,
+    "stock": 30,
+    "minStock": 15,
+    "unit": "pcs",
+    "description": "Donat lembut dengan taburan kacang nougat yang renyah.",
+    "image": "https://th.bing.com/th/id/OIP.EczbSNDc0rdnxTOvadTj6wHaEJ?w=282&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+    "isActive": true,
+    "createdAt": "2026-11-01T08:05:00Z"
+  },
+  {
+    "id": "PRD-003",
+    "name": "Donat Gula salju",
+    "category": "Classic",
+    "costPrice": 3000,
+    "price": 6000,
+    "stock": 45,
+    "minStock": 15,
+    "unit": "pcs",
+    "description": "Donat kentang empuk dengan taburan gula salju yang manis.",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHDqxHzKyPq8p0a3jIm9nD989am6eO0lKSVYNlETW9Lw&s=10",
+    "isActive": true,
+    "createdAt": "2026-11-01T08:10:00Z"
+  },
+  {
+    "id": "PRD-004",
+    "name": "Donat Tiramisu",
+    "category": "Premium",
+    "costPrice": 5000,
+    "price": 10000,
+    "stock": 25,
+    "minStock": 10,
+    "unit": "pcs",
+    "description": "Donat dengan topping tiramisu lembut bercita rasa kopi dan cokelat.",
+    "image": "https://th.bing.com/th/id/OIP.eJ1Yx5zKNUCYzpmU2mlf_wHaHa?w=173&h=180&c=7&r=0&o=7&dpr=1.3&pid=1.7&rm=3",
+    "isActive": true,
+    "createdAt": "2026-11-01T08:15:00Z"
+  },
+  {
+    "id": "PRD-005",
+    "name": "Donat Chocolate Rainbow Sprinkles",
+    "category": "Premium",
+    "costPrice": 4000,
+    "price": 8500,
+    "stock": 30,
+    "minStock": 10,
+    "unit": "pcs",
+    "description": "Donat berlapis cokelat dengan taburan sprinkle warna-warni.",
+    "image": "https://thumbs.dreamstime.com/b/chocolate-glazed-donut-rainbow-sprinkles-384143736.jpg",
+    "isActive": true,
+    "createdAt": "2026-11-01T08:20:00Z"
+  }
+]
